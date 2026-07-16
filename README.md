@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Lorina Miao 👋
 
-<!--
-**Coconut101-beep/Coconut101-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**English** · [中文](README.zh-CN.md)
 
-Here are some ideas to get you started:
+I'm an incoming **Master in Analytics & Management** student at **London Business School**, with a background in Economics. I sit at the intersection of **business, product, and data** — I like figuring out *what* to build, *why* it matters to users, and *how* it makes money, then using AI and coding tools to turn those ideas into products people can actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm focused on **AI Product Management** and **AI Engineering**, and I'm especially drawn to products that pair a sharp commercial insight with a genuinely useful experience.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/chuni-miao-6302662a5/) · ✉️ [Email](mailto:lorinamiao@gmail.com)
+
+---
+
+## ⭐ Featured Projects
+
+### 🏠 DormVibe — AI dorm-styling assistant
+🥈 **Second Place** · 💡 **Most Valuable Business Idea**
+
+Take a quick style quiz and get a personalized room concept — a mood board, an audio walkthrough, and a ready-to-buy shopping list — plus a peer-to-peer second-hand marketplace to keep it affordable and sustainable.
+
+**What I owned:** business model & monetization, market research, pitching, recommendation logic, and the second-hand marketplace + checkout flow.
+
+📂 [View project](https://github.com/Coconut101-beep/DormVibe)
+
+### 🍳 FoodieVibe — a cooking "passport" app
+🌟 **Most Popular Award (游园之星)** · Ningbo TikTok Hackathon 2026
+
+Pick the ingredients you already have, get the best-matching world recipe, cook along with its cultural story, and collect food badges and country stamps in your passport. Offline-first, multilingual (English · 中文 · Bahasa Indonesia · हिन्दी), and installable on iOS & Android.
+
+**What I owned:** business model, market research, pitching, the multi-language toggle, the ingredient library, the recipe experience, and the recipe recommendation logic.
+
+📂 [View project](https://github.com/Coconut101-beep/FoodieVibe)
+
+---
+
+## 🧰 Toolbox
+
+**Product:** market research · monetization & business modeling · pitching & storytelling · user-focused feature design
+
+**Data & Tech:** Python · SQL · R · Power BI · Tableau
+
+**Building with AI:** using coding agents to prototype and ship real products
+
+---
+
+## 🌱 Currently
+
+- 🎓 Starting my Master in Analytics & Management at London Business School
+- 🔍 Exploring **AI PM / AI Engineering** roles in the UK
+- 🐍 Strengthening my Python and building more projects in public
+
+---
+
+## 🤝 Let's connect
+
+I'm always happy to chat about AI products, analytics, and turning ideas into things people actually use.
+
+✉️ lorinamiao@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/chuni-miao-6302662a5/)
