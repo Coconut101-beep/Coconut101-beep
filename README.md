@@ -12,6 +12,14 @@ I'm focused on **AI Product Management** and **AI Engineering**, and I'm especia
 
 ## ⭐ Featured Projects
 
+### 💌 Letters from Lorina — private digital letters
+
+A vintage, soft-editorial letter experience for friends and family. Each recipient unlocks a personal letter with a private passkey, reveals a scratchboard of shared memories, and can listen to an optional soundtrack.
+
+**What I built:** the full product and experience — vanilla HTML/CSS/JS front end, Chinese IME-safe passkey flow, Supabase Postgres and Edge Function backend, bcrypt verification, RLS-protected data, and signed private-media delivery.
+
+🌐 [Try the live demo](https://letter-from-lorina.vercel.app/) · 📂 [View project](https://github.com/Coconut101-beep/Letter)
+
 ### 🏠 DormVibe — AI dorm-styling assistant
 🥈 **Second Place** · 💡 **Most Valuable Business Idea**
 
