@@ -1,4 +1,4 @@
-# Hi, I'm Lorina Miao 👋
+# Hi, I'm Chuni Miao 👋
 
 **English** · [中文](README.zh-CN.md)
 
