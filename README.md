@@ -30,7 +30,7 @@ Take a quick style quiz and get a personalized room concept — a mood board, an
 📂 [View project](https://github.com/Coconut101-beep/DormVibe)
 
 ### 🍳 FoodieVibe — a cooking "passport" app
-🌟 **Most Popular Award (游园之星)** · Ningbo TikTok Hackathon 2026
+🌟 **Most Popular Award (游园之星)** · TikTok Hackathon 2026
 
 Pick the ingredients you already have, get the best-matching world recipe, cook along with its cultural story, and collect food badges and country stamps in your passport. Offline-first, multilingual (English · 中文 · Bahasa Indonesia · हिन्दी), and installable on iOS & Android.
 
